@@ -1,0 +1,47 @@
+body {
+  background-color:black;
+}
+h1{
+  color:white;
+  font-family:"Oswald";
+}
+h2{
+   color:white;
+  font-family:"prompt";
+}
+.calcOutput{
+  background-color:white;
+  width:250px;
+  height:70px;
+  border-top-left-radius:2em;
+   border-top-right-radius:2em;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  padding-top:20px;
+  
+}
+#calculator{
+  background-color:grey;
+  color:white;
+  width:250px;
+  padding-top:20px;
+  padding-bottom:20px;
+  border-bottom-left-radius:5px;
+   border-bottom-right-radius:5px;
+  margin-left:auto;
+  margin-right:auto;
+  
+}
+#steps{
+  padding-left:50px;
+  font-size:2em;
+}
+.bigButton{
+  width:99px;
+}
+a{
+  margin:5px;
+  width:2.9vw;
+  height:2.4vw;
+}
